@@ -1,2 +1,2 @@
-# wordgame3
+# rust-wordgame
 Word guessing game, this time in Rust
